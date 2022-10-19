@@ -1,4 +1,4 @@
-Pagina web
+<h1>Pagina web</h1>
 
 <h3>Projeto pessoal onde fiz uma página de perfil, com uma breve descrição sobre mim</h3>
 
@@ -12,4 +12,4 @@ Pagina web
 </ul>
 
 <h2>Projeto</h2>
-<img src="imagem-projeto/imagem-pagina-web.png" alt="Imagrem do Projeto">
+<img src="pagina-perfil/imagem-projeto/imagem-pagina-web.png" alt="Imagem do Projeto">
